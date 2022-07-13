@@ -1,0 +1,30 @@
+C:\Users\isma\Desktop\c# programming\Xisaabiye\bin\Debug\Xisaabiye.exe.config
+C:\Users\isma\Desktop\c# programming\Xisaabiye\bin\Debug\Xisaabiye.exe
+C:\Users\isma\Desktop\c# programming\Xisaabiye\bin\Debug\Xisaabiye.pdb
+C:\Users\isma\Desktop\c# programming\Xisaabiye\obj\Debug\Xisaabiye.csproj.AssemblyReference.cache
+C:\Users\isma\Desktop\c# programming\Xisaabiye\obj\Debug\Xisaabiye.csproj.SuggestedBindingRedirects.cache
+C:\Users\isma\Desktop\c# programming\Xisaabiye\obj\Debug\Xisaabiye.Form1.resources
+C:\Users\isma\Desktop\c# programming\Xisaabiye\obj\Debug\Xisaabiye.Properties.Resources.resources
+C:\Users\isma\Desktop\c# programming\Xisaabiye\obj\Debug\Xisaabiye.csproj.GenerateResource.cache
+C:\Users\isma\Desktop\c# programming\Xisaabiye\obj\Debug\Xisaabiye.csproj.CoreCompileInputs.cache
+C:\Users\isma\Desktop\c# programming\Xisaabiye\obj\Debug\Xisaabiye.exe
+C:\Users\isma\Desktop\c# programming\Xisaabiye\obj\Debug\Xisaabiye.pdb
+C:\Users\hp\Desktop\Xisaabiye\bin\Debug\Xisaabiye.exe.config
+C:\Users\hp\Desktop\Xisaabiye\bin\Debug\Xisaabiye.exe
+C:\Users\hp\Desktop\Xisaabiye\bin\Debug\Xisaabiye.pdb
+C:\Users\hp\Desktop\Xisaabiye\obj\Debug\Xisaabiye.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Xisaabiye\obj\Debug\Xisaabiye.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Xisaabiye\obj\Debug\Xisaabiye.Form1.resources
+C:\Users\hp\Desktop\Xisaabiye\obj\Debug\Xisaabiye.Properties.Resources.resources
+C:\Users\hp\Desktop\Xisaabiye\obj\Debug\Xisaabiye.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Xisaabiye\obj\Debug\Xisaabiye.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Xisaabiye\obj\Debug\Xisaabiye.exe
+C:\Users\hp\Desktop\Xisaabiye\obj\Debug\Xisaabiye.pdb
+C:\Calculater\obj\Debug\Xisaabiye.csproj.AssemblyReference.cache
+C:\Calculater\obj\Debug\Xisaabiye.csproj.SuggestedBindingRedirects.cache
+C:\Calculater\obj\Debug\Calculater.Form1.resources
+C:\Calculater\obj\Debug\Xisaabiye.Properties.Resources.resources
+C:\Calculater\obj\Debug\Xisaabiye.csproj.GenerateResource.cache
+C:\Calculater\obj\Debug\Xisaabiye.csproj.CoreCompileInputs.cache
+C:\Calculater\obj\Debug\Xisaabiye.exe
+C:\Calculater\obj\Debug\Xisaabiye.pdb
